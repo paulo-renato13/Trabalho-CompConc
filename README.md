@@ -1,2 +1,2 @@
-# Trabalho---Computa-o-Concorrente
+# Trabalho-CompConc
 Integração Numérica
