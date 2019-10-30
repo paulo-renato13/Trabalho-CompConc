@@ -69,6 +69,10 @@ float integracao_numerica(float a, float b, float erro, char funcao) {
 		inicial.coordY = funcD(a);
 		final.coordY = funcD(b);
 		break;
+		case 'E':
+		inicial.coordY = funcE(a);
+		final.coordY = funcE(b);
+		break;
 		case 'F':
 		inicial.coordY = funcF(a);
 		final.coordY = funcF(b);
